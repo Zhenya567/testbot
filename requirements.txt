@@ -1,2 +1,2 @@
 colorama==0.4.1
-virtualenv==16.6.2
+virtualenv==20.26.6
